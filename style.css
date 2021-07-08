@@ -41,7 +41,7 @@ h2{
 }
 .recepies{
     float:left;
-    width: 22%;
+    width: 20%;
     margin-left:5%;
     margin-right: 0%;
     padding: 15px 15px 0 15px;
@@ -58,7 +58,7 @@ h2{
         float:left;
         width: 20%;
         margin-left:12%;
-        margin-top: 20px;
+        margin-top: 400px;
         margin-bottom: 40px;  
     }
    
