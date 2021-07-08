@@ -1,0 +1,81 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0cm;
+}
+.name-highlight{
+    color: orange;
+}
+h1{
+    font-size: 60px;
+}
+h2{
+    text-align: center;
+    font-size: 50px;
+}
+.half_width{
+    width: 45%;
+    margin-left:3%;
+    margin-right: 0cm;
+    padding-left: 2%;
+    float:left;
+}
+.button{
+    background-image: linear-gradient(315deg, #63a4ff 0%, #83eaf1 74%);
+    color: white;
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 3px;
+    font-weight: 700;
+}
+.heading_color{
+    color: grey;
+}
+#introduce{
+    background-image: url("Images/Frame.jpg");
+    background-repeat: no-repeat;
+    width: 90%;
+    padding: 0 7%;
+    display: table;
+    margin: 0;
+    background-size: cover;
+}
+.recepies{
+    float:left;
+    width: 25%;
+    margin-left:5%;
+    margin-right: 0%;
+    padding: 15px 15px 0 15px;
+    margin-top: 40px;
+    }
+    .boxes{
+        box-shadow:5px 5px 40px grey;
+        border-radius: 20px;
+    }
+    .top{
+       text-align: center;
+    }
+    .quantity{
+        float:left;
+        width: 20%;
+        margin-left:12%;
+        margin-top: 20px;
+        margin-bottom: 40px;  
+    }
+   
+
+    #last{
+        background-repeat: no-repeat;
+    width: 90%;
+    padding: 0 7%;
+    display: table;
+    margin: 0;
+    background-size: cover;
+        background-color: black;
+    }
+    .end{
+        color: white;
+    }
+    #final{
+        text-align: center;
+    }
+    
